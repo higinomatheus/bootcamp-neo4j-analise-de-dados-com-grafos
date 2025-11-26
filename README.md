@@ -1,2 +1,4 @@
-# bootcamp-neo4j-analise-de-dados-com-grafos
-Repositório com todos os projetos, exercícios e materiais desenvolvidos no Bootcamp Neo4j – Análise de Dados com Grafos, incluindo modelagem, consultas e análises usando Neo4j e Cypher.
+ 🧠 Bootcamp Neo4j – Análise de Dados com Grafos
+
+Repositório destinado ao Bootcamp **Neo4j – Análise de Dados com Grafos**.  
+Aqui organizei todos os desafios, scripts Cypher, modelos, visualizações, exercícios práticos e materiais de estudo relacionados ao universo dos grafos e do Neo4j.
